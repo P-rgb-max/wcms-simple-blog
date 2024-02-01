@@ -3,11 +3,11 @@
     "plugins": {
         "simple-blog": {
             "name": "Simple Blog",
-            "repo": "https://github.com/robiso/simple-blog/tree/master",
-            "zip": "https://github.com/robiso/simple-blog/archive/master.zip",
+            "repo": "https://github.com/P-rgb-max/wcms-simple-blog/tree/master",
+            "zip": "https://github.com/P-rgb-max/wcms-simple-blog/archive/master.zip",
             "summary": "Adds a simple blog section to your WonderCMS website. Created by Stephan Stanisic.",
             "version": "3.2.4",
-            "image": "https://raw.githubusercontent.com/robiso/simple-blog/master/preview.jpg"
+            "image": "https://raw.githubusercontent.com/P-rgb-max/wcms-simple-blog/master/preview.jpg"
         }
     }
 }
